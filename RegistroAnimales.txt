@@ -1,0 +1,73 @@
+===============Mascota 1===============
+
+ Nombre: Abdiel
+ Animal: Perro
+ Peso: 1010.00 Kg
+ Edad: 10 años
+ Propietario: Google
+
+===============Mascota 2===============
+
+ Nombre: Adolfo
+ Animal: Gato
+ Peso: 9.00 Kg
+ Edad: 9 años
+ Propietario: Facebook
+
+===============Mascota 3===============
+
+ Nombre: Benjamin
+ Animal: Perro
+ Peso: 8.00 Kg
+ Edad: 8 años
+ Propietario: Google
+
+===============Mascota 4===============
+
+ Nombre: Erick
+ Animal: Delfin
+ Peso: 7.00 Kg
+ Edad: 7 años
+ Propietario: Twitter
+
+===============Mascota 5===============
+
+ Nombre: Frodo
+ Animal: Conejo
+ Peso: 6.00 Kg
+ Edad: 6 años
+ Propietario: Google
+
+===============Mascota 6===============
+
+ Nombre: Julio
+ Animal: Cotoroo
+ Peso: 5.00 Kg
+ Edad: 5 años
+ Propietario: 21Black
+
+===============Mascota 7===============
+
+ Nombre: Nemo
+ Animal: Pescado
+ Peso: 4.00 Kg
+ Edad: 4 años
+ Propietario: Disney
+
+===============Mascota 8===============
+
+ Nombre: William
+ Animal: Conejo
+ Peso: 3.00 Kg
+ Edad: 3 años
+ Propietario: ChilaquilesTeam
+
+===============Mascota 9===============
+
+ Nombre: Zucaritas
+ Animal: Tigre
+ Peso: 1.00 Kg
+ Edad: 1 año
+ Propietario: MySpace
+
+========================================
